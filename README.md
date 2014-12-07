@@ -3,7 +3,7 @@ Twitter Timeline Cleaner
 
 Delete all your tweets.
 
-How to use :
+How to use : <br>
 1. Install Firefox or GoogleChrome/Chromimum (if you don't) <br>
 2. Install Greasemonkey (on Firefox) and Tampermonkey (on GoogleChrome/Chromium) <br>
 3. Add the script to your *monkey scripts <br>
