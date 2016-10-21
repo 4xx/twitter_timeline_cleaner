@@ -1,3 +1,6 @@
+**WARNING** This script hasn't been update/used in a while and is not up to date. It's having various issues and bugs with new Twitter versions.
+
+
 Twitter Timeline Cleaner
 ========================
 
